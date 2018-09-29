@@ -1,4 +1,4 @@
-# my-simple-friendly-map
+# my-simple-online-map
 
 Console.WriteLine("Hello,please enable an internet connection and enable tracking so that i can read your current location.");
 /* string(connection) is the message sent by the button when connection is enabled or disabled.
